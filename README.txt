@@ -17,3 +17,6 @@ v - toggle a preference for vertical corridors in the maze, and
     generate a new maze
 h - toggle a preference for horizontal corridors in the maze, and
     generate a new maze
+
+
+Note that I'm currently converting from the incredibly inefficient Fundies 2 library to Java Swing, causing nothing to currently work and the code to throw a bunch of compile errors. 
